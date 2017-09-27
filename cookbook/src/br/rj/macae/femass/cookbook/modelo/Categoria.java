@@ -77,6 +77,11 @@ public class Categoria {
             this.receitas.add(r);
         }
     }
+
+    @Override
+    public String toString() {
+        return "Categoria{" + "id=" + id + ", nome=" + nome + ", descricao=" + descricao + ", receitas=" + receitas + '}';
+    }
        
 }
     

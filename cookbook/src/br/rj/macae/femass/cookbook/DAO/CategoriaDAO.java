@@ -6,7 +6,6 @@
 package br.rj.macae.femass.cookbook.DAO;
 
 import br.rj.macae.femass.cookbook.modelo.Categoria;
-import br.rj.macae.femass.cookbook.modelo.Receita;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 
